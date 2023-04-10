@@ -1,6 +1,6 @@
 class helloworld
 {
-public static oid main()
+public static void main()
 {
 System.out.println("hello world");
 }
